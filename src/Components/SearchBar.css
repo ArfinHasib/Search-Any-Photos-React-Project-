@@ -1,0 +1,22 @@
+* {
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.search-bar {
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	padding: 25px;
+	margin-top: 20px;
+}
+
+.search-bar form {
+	display: flex;
+	flex-direction: column;
+}
+
+.search-bar form input {
+	height: 35px;
+	margin-top: 10px;
+	font-weight: normal;
+}
